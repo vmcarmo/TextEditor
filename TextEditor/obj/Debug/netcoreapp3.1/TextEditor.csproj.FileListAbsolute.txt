@@ -1,0 +1,13 @@
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
